@@ -383,7 +383,6 @@ namespace Space_Shooter
             RightMoveTimer.Stop();
             UpMoveTimer.Stop();
             DownMoveTimer.Stop();
-            
         }
 
         private void StartTimers()
@@ -446,7 +445,5 @@ namespace Space_Shooter
         {
             Environment.Exit(1);
         }
-
-     
     }
 }
