@@ -55,13 +55,12 @@ namespace Space_Shooter
 
             ammunition = new PictureBox[3];
 
-            Image ammunitionImage = Image.FromFile(@"asserts\munition.png");
+            Image ammunitionImage = Image.FromFile(@"asserts\Bullet.png");
 
-            Image Enemy1 = Image.FromFile("asserts\\E1.png");
-            Image Enemy2 = Image.FromFile("asserts\\E2.png");
-            Image Enemy3 = Image.FromFile("asserts\\E3.png");
-            Image boss1 = Image.FromFile("asserts\\Boss1.png");
-            Image boss2 = Image.FromFile("asserts\\Boss2.png");
+            Image Enemy1 = Image.FromFile("asserts\\InvaderB1.png");
+            Image Enemy2 = Image.FromFile("asserts\\InvaderB2.png");
+            Image Enemy3 = Image.FromFile("asserts\\InvaderA2.png");
+            Image boss1 = Image.FromFile("asserts\\RedInvader.png");
 
             enemies = new PictureBox[10];
 
@@ -87,7 +86,7 @@ namespace Space_Shooter
             enemies[6].Image = Enemy2;
             enemies[7].Image = Enemy1;
             enemies[8].Image = Enemy2;
-            enemies[9].Image = boss2;
+            enemies[9].Image = boss1;
 
             for (int i = 0; i < ammunition.Length; i++)
             {
@@ -149,7 +148,7 @@ namespace Space_Shooter
                 {
                     Size = new Size(2, 25),
                     Visible = false,
-                    BackColor = Color.Yellow
+                    BackColor = Color.Lime
                 };
 
                 // This random number generator will determine which enemies get to shoot ammunition at the player as we cant have every single enemy shooting at one
