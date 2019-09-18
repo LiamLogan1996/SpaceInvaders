@@ -1,0 +1,13 @@
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\bin\Debug\Space Shooter.exe.config
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\bin\Debug\Space Shooter.exe
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\bin\Debug\Space Shooter.pdb
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csprojAssemblyReference.cache
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.Form1.resources
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space_Shooter.Properties.Resources.resources
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csproj.GenerateResource.cache
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.exe
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.pdb
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\Liam Logan\Desktop\Coding Work\C#\Games\Space Shooter\Space Shooter\obj\Debug\Space Shooter.csproj.ResolveComReference.cache
